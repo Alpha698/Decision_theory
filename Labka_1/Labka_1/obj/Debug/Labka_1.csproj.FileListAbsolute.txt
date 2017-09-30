@@ -1,0 +1,15 @@
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\bin\Debug\Labka_1.exe.config
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\bin\Debug\Labka_1.exe
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\bin\Debug\Labka_1.pdb
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.csprojResolveAssemblyReference.cache
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.Form1.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.Properties.Resources.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.csproj.GenerateResource.Cache
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.exe
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.pdb
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.Результаты.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.tabl1.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.tabl2.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.tabl3.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.tabl4.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.tabl5.resources
