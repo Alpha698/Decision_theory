@@ -1,0 +1,86 @@
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\bin\Debug\Labka_1.exe.config
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\bin\Debug\Labka_1.exe
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\bin\Debug\Labka_1.pdb
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.csprojResolveAssemblyReference.cache
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.Form1.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.Properties.Resources.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.csproj.GenerateResource.Cache
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.exe
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.pdb
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.Результаты.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.tabl1.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.tabl2.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.tabl3.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.tabl4.resources
+D:\University\ТПР\лаб 1\Labka_1\Labka_1\obj\Debug\Labka_1.tabl5.resources
+D:\University\ТПР\лаб 3\Labka_3\Labka_1\bin\Debug\Labka_1.exe.config
+D:\University\ТПР\лаб 3\Labka_3\Labka_1\bin\Debug\Labka_1.exe
+D:\University\ТПР\лаб 3\Labka_3\Labka_1\bin\Debug\Labka_1.pdb
+D:\University\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.csprojResolveAssemblyReference.cache
+D:\University\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.Form1.resources
+D:\University\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.Properties.Resources.resources
+D:\University\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.tabl1.resources
+D:\University\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.tabl2.resources
+D:\University\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.tabl3.resources
+D:\University\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.tabl4.resources
+D:\University\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.csproj.GenerateResource.Cache
+D:\University\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.exe
+D:\University\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.pdb
+D:\University_!\ТПР\лаб 3\Labka_3\Labka_1\bin\Debug\Labka_1.exe.config
+D:\University_!\ТПР\лаб 3\Labka_3\Labka_1\bin\Debug\Labka_1.exe
+D:\University_!\ТПР\лаб 3\Labka_3\Labka_1\bin\Debug\Labka_1.pdb
+D:\University_!\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.csprojResolveAssemblyReference.cache
+D:\University_!\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.Form1.resources
+D:\University_!\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.Properties.Resources.resources
+D:\University_!\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.tabl1.resources
+D:\University_!\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.tabl2.resources
+D:\University_!\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.tabl3.resources
+D:\University_!\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.tabl4.resources
+D:\University_!\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.csproj.GenerateResource.Cache
+D:\University_!\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.exe
+D:\University_!\ТПР\лаб 3\Labka_3\Labka_1\obj\Debug\Labka_1.pdb
+d:\University_!\ТПР\лаб 4\Labka_4\Labka_1\bin\Debug\Labka_1.exe.config
+d:\University_!\ТПР\лаб 4\Labka_4\Labka_1\bin\Debug\Labka_1.exe
+d:\University_!\ТПР\лаб 4\Labka_4\Labka_1\bin\Debug\Labka_1.pdb
+d:\University_!\ТПР\лаб 4\Labka_4\Labka_1\obj\Debug\Labka_1.csprojResolveAssemblyReference.cache
+d:\University_!\ТПР\лаб 4\Labka_4\Labka_1\obj\Debug\Labka_1.Form1.resources
+d:\University_!\ТПР\лаб 4\Labka_4\Labka_1\obj\Debug\Labka_1.Properties.Resources.resources
+d:\University_!\ТПР\лаб 4\Labka_4\Labka_1\obj\Debug\Labka_1.csproj.GenerateResource.Cache
+d:\University_!\ТПР\лаб 4\Labka_4\Labka_1\obj\Debug\Labka_1.exe
+d:\University_!\ТПР\лаб 4\Labka_4\Labka_1\obj\Debug\Labka_1.pdb
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\bin\Debug\Labka_1.exe.config
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\bin\Debug\Labka_1.exe
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\bin\Debug\Labka_1.pdb
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\obj\Debug\Labka_1.Form1.resources
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\obj\Debug\Labka_1.Properties.Resources.resources
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\obj\Debug\Labka_1.csproj.GenerateResource.Cache
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\obj\Debug\Labka_1.exe
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\obj\Debug\Labka_1.pdb
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\bin\Debug\LiveCharts.dll
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\bin\Debug\LiveCharts.WinForms.dll
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\bin\Debug\LiveCharts.Wpf.dll
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\bin\Debug\LiveCharts.pdb
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\bin\Debug\LiveCharts.xml
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\bin\Debug\LiveCharts.WinForms.pdb
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\bin\Debug\LiveCharts.WinForms.xml
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\bin\Debug\LiveCharts.Wpf.pdb
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\bin\Debug\LiveCharts.Wpf.xml
+d:\University_!\Для КС3 Численные методы 2017\Курсовая работа Численные методы 2017\Мой_курсач\Labka_4\Labka_1\obj\Debug\Labka_1.csprojResolveAssemblyReference.cache
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\bin\Debug\Labka_1.exe.config
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\bin\Debug\Labka_1.exe
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\bin\Debug\Labka_1.pdb
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\bin\Debug\LiveCharts.dll
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\bin\Debug\LiveCharts.WinForms.dll
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\bin\Debug\LiveCharts.Wpf.dll
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\bin\Debug\LiveCharts.pdb
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\bin\Debug\LiveCharts.xml
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\bin\Debug\LiveCharts.WinForms.pdb
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\bin\Debug\LiveCharts.WinForms.xml
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\bin\Debug\LiveCharts.Wpf.pdb
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\bin\Debug\LiveCharts.Wpf.xml
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\obj\Debug\Labka_1.csprojResolveAssemblyReference.cache
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\obj\Debug\Labka_1.Form1.resources
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\obj\Debug\Labka_1.Properties.Resources.resources
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\obj\Debug\Labka_1.csproj.GenerateResource.Cache
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\obj\Debug\Labka_1.exe
+d:\University_!\ТПР\РГЗ1\RGZ1\Labka_1\obj\Debug\Labka_1.pdb
